@@ -8,7 +8,7 @@
 
 ## 💡 Stats
 
-[![stats](https://github-readme-stats.vercel.app/api?username=jqshuv&show_icons=true&hide=stars&hide_border=true&bg_color=22282f&text_color=ffffff&hide_title=true&count_private=true)](https://github.com/jqshuv/jqshuv)
+[![stats](https://githubcard.com/jqshuv.svg?d=3_GFEUjd)](https://github.com/jqshuv/jqshuv)
 
 ## 💾 Most Used Languages
 
