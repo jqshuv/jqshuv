@@ -8,7 +8,7 @@
 
 ## 💡 Stats
 
-[![stats](https://githubcard.com/jqshuv.svg?d=3_GFEUjd)](https://github.com/jqshuv/jqshuv)
+[![stats](https://githubcard.com/jqshuv.svg?d=uIRCduqd)](https://github.com/jqshuv/jqshuv)
 
 ## 💾 Most Used Languages
 
