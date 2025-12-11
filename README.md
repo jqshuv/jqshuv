@@ -10,10 +10,6 @@
 
 [![stats](https://githubcard.com/jqshuv.svg?d=uIRCduqd)](https://github.com/jqshuv/jqshuv)
 
-## 💾 Most Used Languages
-
-[![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=jqshuv&hide_border=true&bg_color=22282f&text_color=ffffff&hide_title=true&count_private=true)](https://github.com/jqshuv/jqshuv)
-
 ## 🔧 Technologies
 
 [![skills](https://skillicons.dev/icons?i=js,ts,supabase,docker,html,css,git,github,githubactions,go,discord,nodejs,vue,react,mongodb,mysql,py,kubernetes,md,bash,cloudflare,nginx,vscode,idea,apple,workers&theme=light)](https://github.com/jqshuv/jqshuv)
